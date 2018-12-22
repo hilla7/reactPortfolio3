@@ -1,0 +1,11 @@
+.header{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(54, 247, 6);
+    height: 5vh;
+    text-align: left;
+}
+
+.langs{
+    padding-left: 60px;
+}

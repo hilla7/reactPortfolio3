@@ -1,0 +1,35 @@
+.close-btn{
+    text-align: right;
+}
+
+.item-view{
+    color: gray;
+    border: 1px solid greenyellow;
+}
+
+.item-content{
+    display: flex;  
+    flex-flow: row wrap;
+}
+
+.description{
+    flex: 1;
+    margin: 20px;
+    position: relative;
+}
+
+.item-image{
+    flex: 0;
+}
+
+.price{
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.shop-btn{
+    width: 320px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
